@@ -24,9 +24,9 @@ class Main extends PluginBase implements Listener
 
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
         $this->saveDefaultConfig();
-        $this->getServer()->getLogger()->notice(TF::AQUA . TF::BOLD . "Relics" . TF::RESET . TF::GRAY . " has been loaded! Plugin by DuooIncc");
-        $this->getServer()->getLogger()->notice(TF::GRAY . "Github: https://github.com/DuooIncc");
-        $this->getServer()->getLogger()->notice(TF::GRAY . "Twitter: https://twitter.com/duooincurr");
+        $this->getServer()->getLogger()->notice(TF::AQUA . TF::BOLD . "Relics" . TF::RESET . TF::GRAY . " has been loaded! Plugin by xXCaulDevsYT");
+        $this->getServer()->getLogger()->notice(TF::GRAY . "Github: https://github.com/xXCaulDevsYT");
+        $this->getServer()->getLogger()->notice(TF::GRAY . "Twitter: https://twitter.com/emerald_assasin");
 
     }
 
