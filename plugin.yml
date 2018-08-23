@@ -1,0 +1,6 @@
+name: EasyRelics
+main: EasyRelics\Main
+version: 1.0
+api: [3.0.0-ALPHA12, 3.0.0]
+author: xXCaulDevsYT
+description: Gain rewards from mining!
