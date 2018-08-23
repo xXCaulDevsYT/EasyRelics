@@ -1,1 +1,24 @@
+---
+# ==================================================================================
+# EasyRelics , Developed & Owned by its Rightfull Creator EmeraldAssasinYT!
+# EasyRelics , Can be found by mining blocks , and will apear in your inventory ,
+# as a Nether Star Right Click them to activate , and give Rewards!
+# ==================================================================================
+# These Relics can be found at https://github.com/xXCaulDevsYT
+# This Version is in beta mode stay around for full release.
+# ==================================================================================
+# > Version 1.0
+# Use Item Id's
+# ==================================================================================
 
+# |||||||||||||||||||| RELICS LOOT |||||||||||||||||||| #
+
+relic-loot:
+- "1"
+- "2"
+- "3"
+
+# |||||||||||||||||||| MAX AMOUNT IN A STACK |||||||||||||||||||| #
+
+relic-max: 64
+...
