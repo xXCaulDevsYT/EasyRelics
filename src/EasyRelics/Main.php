@@ -1,6 +1,6 @@
 <?php
 
-namespace Relics;
+namespace EasyRelics;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
